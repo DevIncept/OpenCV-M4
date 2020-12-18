@@ -10,3 +10,9 @@
 
 [Part1-P7.md]: https://github.com/Rishav-hub/OpenCV-M4/blob/main/Part1_References.md
 [Part1-P7.ipynb]: https://github.com/Rishav-hub/OpenCV-M4/blob/main/Part1_References.md
+
+7. **[Group Project](gp.md)** *Optional*
+
+8. **[Make your Portfolio](https://github.com/DevIncept/Portfolio)** *Optional*
+
+9. **Quiz** Link will be shared    *(Mandatory)*
