@@ -1,7 +1,7 @@
 # OpenCV-M4
 
-1. [Part1: Car and Pedestrian Detection][Part1_References.md]
-2. [Part1: Car and Pedestrian Detection Notebook][Part1_References.md]
+1. [Part1: Car and Pedestrian Detection](Part1_References.md)
+2. [Part1: Car and Pedestrian Detection Notebook](Part1_References.md)
 3. [Part2: Car and Pedestrian Detection application with Flask](Part2.md)
 4. [Part3: Motion Analysis](Part3.md)
 5. [Part4: Introduction to opticalflow](Part4.md)
