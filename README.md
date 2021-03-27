@@ -8,7 +8,7 @@
 6. [Part5: Project-Object Tracking](Part5.md)
 
 
-7. **[Group Project](gp.md)** *Optional*
+7. **Group Project :** As directed on slack *(Optional)*
 
 8. **[Make your Portfolio](https://github.com/DevIncept/Portfolio)** *Optional*
 
